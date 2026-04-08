@@ -1,3 +1,6 @@
+KHÔNG DÙNG FILE NÀY NỮA. ĐÃ LÀM PHIÊN BẢN KHÁC TỐT HƠN: dailylog
+
+
 🧠 Daily Log — Nhật ký công việc cá nhân
 📌 Giới thiệu
 Daily Log là web app giúp bạn ghi lại toàn bộ công việc hàng ngày như một hệ thống “trí nhớ thứ hai”.
